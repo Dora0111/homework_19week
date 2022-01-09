@@ -1,0 +1,13 @@
+/*
+* 单列集合 双列集合
+* 单列是用list 是可以重复的 ArrayList
+* 单列也可以用set 不是可以重复的 HashSet
+* 双列是用map实现 HashMap
+* 先学习接口 不能实例化
+* 再学习实现类
+* Collection 在Util里面
+* 没有具体的实现类 只能用子接口的实现类
+* 如：set list
+* 用多态的方式创建集合对象
+* 具体实现类ArrayList
+*/
